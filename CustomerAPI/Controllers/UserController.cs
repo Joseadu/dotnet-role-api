@@ -184,7 +184,7 @@ namespace CustomerAPI.Controllers
             }
             catch (Exception ex)
             {
-                result = string.Empty;
+                result = "error";
             }
             return new APIResponse { keycode = string.Empty, result = result };
         }

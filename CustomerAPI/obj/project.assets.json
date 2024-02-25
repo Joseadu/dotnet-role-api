@@ -2816,11 +2816,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josed\\programacion\\Cursos\\youtube\\nihira-techiees\\aspdotnet-api-jwp-authentication\\CustomerAPI\\CustomerAPI\\CustomerAPI.csproj",
+      "projectUniqueName": "C:\\Users\\josed\\programacion\\Cursos\\youtube\\nihira-techiees\\aspdotnet-api-jwp-authentication - copia\\CustomerAPI\\CustomerAPI\\CustomerAPI.csproj",
       "projectName": "CustomerAPI",
-      "projectPath": "C:\\Users\\josed\\programacion\\Cursos\\youtube\\nihira-techiees\\aspdotnet-api-jwp-authentication\\CustomerAPI\\CustomerAPI\\CustomerAPI.csproj",
+      "projectPath": "C:\\Users\\josed\\programacion\\Cursos\\youtube\\nihira-techiees\\aspdotnet-api-jwp-authentication - copia\\CustomerAPI\\CustomerAPI\\CustomerAPI.csproj",
       "packagesPath": "C:\\Users\\josed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josed\\programacion\\Cursos\\youtube\\nihira-techiees\\aspdotnet-api-jwp-authentication\\CustomerAPI\\CustomerAPI\\obj\\",
+      "outputPath": "C:\\Users\\josed\\programacion\\Cursos\\youtube\\nihira-techiees\\aspdotnet-api-jwp-authentication - copia\\CustomerAPI\\CustomerAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\josed\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2895,7 +2895,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

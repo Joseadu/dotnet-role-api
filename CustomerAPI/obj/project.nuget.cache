@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dj0/ffkfBftRvrtmNxqbi1ELZbg+oVhsirPrkq5bUTTn5LzYx3tqCVmg6rwebAYP8pcZcARz4ZlrVzA8izye3Q==",
+  "dgSpecHash": "bfAWlyQ7JpP87+D67eo15vsWfhkHJz+J44aTNhkcQuzWvnpE6poB8zUMnWJ17CgbRFCQYBD70eW7x3961E6OXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\josed\\programacion\\Cursos\\youtube\\nihira-techiees\\aspdotnet-api-jwp-authentication\\CustomerAPI\\CustomerAPI\\CustomerAPI.csproj",
+  "projectFilePath": "C:\\Users\\josed\\programacion\\Cursos\\youtube\\nihira-techiees\\aspdotnet-api-jwp-authentication - copia\\CustomerAPI\\CustomerAPI\\CustomerAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\josed\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\josed\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.0\\microsoft.aspnetcore.authentication.jwtbearer.6.0.0.nupkg.sha512",
